@@ -12,7 +12,7 @@
     "clsx": "^1.1.1",
     "crypto-js": "^4.0.0",
     "iterable-objects": "^0.0.8",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
